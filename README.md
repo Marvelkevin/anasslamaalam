@@ -1,4 +1,4 @@
-### Hi there, I'm [AnassLAMAALAM!](https://github.com/AnassLAMAALAM) 👋
+### Hi there, I'm [Anass!](https://github.com/AnassLAMAALAM) 👋
 
 <a href="https://www.linkedin.com/in/anass-lamaalam-7b5644171/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
