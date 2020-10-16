@@ -1,3 +1,11 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ahoy there.</h1>
+
+<p>I'm Joel. A software engineer specialising in backend/ops from <img src="https://image.flaticon.com/icons/svg/323/323367.svg" width="13"/> <b>Brisbane, Australia</b></p>
+
+
+
+
+
 ### Hi there, I'm [Anass!](https://github.com/AnassLAMAALAM) 👋
 
 <a href="https://www.linkedin.com/in/anass-lamaalam-7b5644171/">
