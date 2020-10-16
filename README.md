@@ -70,7 +70,7 @@ Git Config   1 min           ░░░░░░░░░░░░░░░░░
 <details>
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anasslamaalam&show_icons=true&theme=radical" alt="anasslamaalam" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anasslamaalam&show_icons=true&theme=blue" alt="anasslamaalam" />
 
 </details>
 
