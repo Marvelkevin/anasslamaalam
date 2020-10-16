@@ -1,12 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ahoy there.</h1>
 
-<p>I'm Joel. A software engineer specialising in backend/ops from <img src="https://image.flaticon.com/icons/svg/323/323367.svg" width="13"/> <b>Brisbane, Australia</b></p>
+<p>I'm Anass . A software engineer specialising in backend/ops from <img src="https://image.flaticon.com/icons/svg/323/323367.svg" width="13"/> <b>Tangier,Morocco</b></p>
 
-
-
-
-
-### Hi there, I'm [Anass!](https://github.com/AnassLAMAALAM) 👋
 
 <a href="https://www.linkedin.com/in/anass-lamaalam-7b5644171/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
